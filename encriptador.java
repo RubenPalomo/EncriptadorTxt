@@ -57,8 +57,6 @@
 58.			int i;
 59.			String string, texto, result = "";
 60.			char array[];
-61.			FileWriter fw;
-62.			PrintWriter pw;
 63.			
 64.			texto = leerFichero(nombreFichero);
 65.			if (texto == "")
