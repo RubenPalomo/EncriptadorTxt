@@ -26,7 +26,6 @@
 26.				br.close();
 27.				// Retornamos result
 28.				return result;
-29.				
 30.			} catch (Exception e) {
 31.				// TODO: handle exception
 32.				return "";
